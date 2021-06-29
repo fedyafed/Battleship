@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Battleship/task" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/Topics/Enums in Java/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/The root of a number" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw a checked exception" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an IOException" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an unchecked exception" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
